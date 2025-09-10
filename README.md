@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahamed-emad/Mahamed_Emad/main/data/cover.gif" width="1000"/>
+  <img src="https://raw.githubusercontent.com/mahamed-emad/Mahamed_Emad/main/data/coding.gif" width="750">
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#1E3A8A;">Mahamed Emad</span> 👋</h1>
@@ -31,7 +31,7 @@
 
 <h4 align="center"> 🌐 CONNECT WITH ME 🌐</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahamed-emad/Mahamed_Emad/main/data/coding.gif" width="700">
+  <img src="https://raw.githubusercontent.com/mahamed-emad/Mahamed_Emad/main/data/cover.gif" width="850"/>
 </p>
 
 <p align="center">
