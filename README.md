@@ -5,7 +5,8 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#1E3A8A;">Mahamed Emad</span> 👋</h1>
 <h3 align="center">🤖📊 Data Scientist | Programmer | Statistician | Mathematician 📊🤖</h3>
 
-<h4 align="center">💡 I build <b>Python</b> tools combining <b>Math</b>, <b>Statistics</b>, and <b>Programming</b> to create practical solutions and foster a deeper understanding 💡</h4>
+<h5 align="center">💡 I build <b>Python</b> tools combining <b>Math</b>, <b>Statistics</b>, and <b>Programming </b></h5>
+<h5 align="center">  to create practical solutions and foster a deeper understanding 💡</h5>
 
 ---
 
